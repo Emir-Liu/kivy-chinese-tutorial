@@ -1,6 +1,7 @@
 # Table of contents
 
-* [入门](README.md)
+* [欢迎来到kivy](README.md)
+* [入门](<README (1).md>)
   * [简介](readme/jian-jie.md)
   * [kivy安装](readme/kivy-an-zhuang.md)
   * [第一个应用程序](readme/di-yi-ge-ying-yong-cheng-xu.md)
@@ -12,3 +13,4 @@
   * [绘图](readme/hui-tu.md)
   * [打包](readme/da-bao.md)
   * [深入](readme/shen-ru.md)
+* [编程指南](bian-cheng-zhi-nan.md)
