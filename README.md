@@ -2,31 +2,31 @@
 
 欢迎使用 Kivy 的文档。Kivy 是一个开源软件库，用于快速开发配备新颖用户界面的应用程序，例如多点触控应用程序。
 
-我们建议您从[入门指南](<README (1).md>)开始。然后转到[编程指南](bian-cheng-zhi-nan.md)。如果您不耐烦，我们还有创建应用程序。
+我们建议您从[入门指南](<README (1).md>)开始。然后转到[编程指南](bian-cheng-zhi-nan/)。如果您不耐烦，我们还有创建应用程序。
 
 您可能想知道为什么您应该对使用 Kivy 感兴趣。我们鼓励您阅读一份概述我们的理念的文件，以及一份详细的架构概述。
 
 如果你想为 Kivy 做贡献，请务必阅读Contributing。如果文档中没有解决您的问题，请随时联系我们。
 
-* 入门
-  * 介绍
-  * 安装 Kivy
-  * 第一个应用程序
-  * 特性
-  * Kv 设计语言
-  * 事件
-  * 非小部件的东西
-  * 布局
-  * 绘画
-  * 包装
-  * 潜入
-* 基维项目
-  * 哲学
+* [入门](<README (1).md>)
+  * [简介](readme/jian-jie.md)
+  * [Kivy安装](readme/kivy-an-zhuang.md)
+  * [第一个应用程序](readme/di-yi-ge-ying-yong-cheng-xu.md)
+  * [属性](readme/shu-xing.md)
+  * [Kv设计语言](readme/kv-she-ji-yu-yan.md)
+  * [事件](readme/shi-jian.md)
+  * [非小部件对象](readme/fei-xiao-bu-jian-dui-xiang.md)
+  * [布局](readme/bu-ju.md)
+  * [绘图](readme/hui-tu.md)
+  * [打包](readme/da-bao.md)
+  * [深入](readme/shen-ru.md)
+* kivy项目
+  * 理念
   * 贡献
   * 常问问题
   * 联系我们
 * 编程指南
-  * 基维基础知识
+  * kivy基础知识
   * 控制环境
   * 配置Kivy
   * 架构概述
