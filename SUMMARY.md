@@ -1,6 +1,7 @@
 # Table of contents
 
-* [欢迎来到kivy](README.md)
+* [概述](README.md)
+* [欢迎来到kivy](<README (2).md>)
 * [入门](<README (1).md>)
   * [简介](readme/jian-jie.md)
   * [kivy安装](readme/kivy-an-zhuang.md)
